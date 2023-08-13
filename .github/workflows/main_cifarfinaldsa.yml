@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CifarFinalDSA'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF4F775E289F45BAB00F757E930CAA8E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28AA065CEFFC46358D80DEB29566FE54 }}
